@@ -13,7 +13,7 @@ export default function Navbar() {
         style={{ backgroundImage: `url(${navbarBg})` }}
       ></div>
       <nav className="flex items-center justify-between flex-wrap bg-transparent p-6">
-        <Link to={""}>
+        <Link to={"/"}>
           <div className="flex items-center flex-shrink-0 text-white mr-6">
             <img src={logo} alt="logo" className="lg:w-24 w-12" />
             <span className="font-bold lg:text-3xl text-lg ml-8">HOME</span>
@@ -24,19 +24,19 @@ export default function Navbar() {
           <div className="text-sm lg:flex-grow"></div>
           <div className="lg:mt-0 mt-5">
             <Link
-              to={""}
+              to={"/about"}
               className="items-center mt-4 lg:inline-block lg:mt-0  lg:text-black text-white font-bold lg:text-3xl text-lg  hover:text-blue-900 mr-12"
             >
               ABOUT
             </Link>
             <Link
-              to={""}
+              to={"/pricing"}
               className=" mt-4 lg:inline-block lg:mt-0  lg:text-black text-white font-bold lg:text-3xl text-lg  hover:text-blue-900 mr-12"
             >
               PRICING
             </Link>
             <Link
-              to={""}
+              to={"/contact"}
               className=" mt-4 lg:inline-block lg:mt-0  lg:text-black text-white font-bold lg:text-3xl text-lg  hover:text-blue-900"
             >
               CONTACT
