@@ -42,7 +42,7 @@ export default function Navbar() {
               CONTACT
             </Link>
             <Link
-              to={""}
+              to={"/login"}
               className={`inline-block px-12 text-xl py-3 leading-none border rounded lg:text-blue-400 text-white border-white lg:border-blue-400 border-teal hover:border-transparent hover:text-white hover:bg-blue-900 mt-4 lg:mt-0 lg:ml-12 ml-0`}
             >
               LOGIN
