@@ -9,7 +9,7 @@ function About() {
     <div>
       <Navbar />
       <h3 className="text-center font-bold text-3xl lg:mt-5 mt-16">ABOUT US</h3>
-      <div class="grid lg:grid-cols-2 gap-4 justify-items-center mt-24">
+      <div className="grid lg:grid-cols-2 gap-4 justify-items-center mt-24">
         <div className="mx-10">
           <img src={aboutImg} alt="aboutImg" className="w-auto" />
         </div>
@@ -41,7 +41,7 @@ function About() {
           </p>
         </div>
       </div>
-      <div class="grid lg:grid-cols-2 gap-4 justify-items-center mt-24">
+      <div className="grid lg:grid-cols-2 gap-4 justify-items-center mt-24">
         <div className="mx-10 self-center lg:order-1 order-2 lg:text-left text-justify">
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque
