@@ -23,11 +23,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 ### Mobile screenshoot
-![Screenshoot Home](https://github.com/pinggdev/Soal_Test_2/assets/59599517/e549a808-5546-4f55-934b-644b50a17bbf)
-![Screenshoot About](https://github.com/pinggdev/Soal_Test_2/assets/59599517/15a25caa-c64a-4df1-aa10-b12052098630)
-![Screenshoot Pricing](https://github.com/pinggdev/Soal_Test_2/assets/59599517/eb93b0a3-6338-4d63-ae60-84f42dab3824)
-![Screenshoot Contact](https://github.com/pinggdev/Soal_Test_2/assets/59599517/7de28dcb-3456-4e83-9fb9-ee98462d95b9)
-![Screenshoot Login](https://github.com/pinggdev/Soal_Test_2/assets/59599517/6841161c-172d-4e73-8a72-6affbc6e54bc)
+![Screenshoot Home](https://github.com/pinggdev/Soal_Test_2/assets/59599517/576d7dea-570b-4bce-b292-e120dc0a2238)
+![Screenshoot About](https://github.com/pinggdev/Soal_Test_2/assets/59599517/fc7c3b69-80e0-4831-9462-0f8652f0b325)
+![Screenshoot Pricing](https://github.com/pinggdev/Soal_Test_2/assets/59599517/6e7b6dd8-6661-4df9-a67f-acce5503f778)
+![Screenshoot Contact](https://github.com/pinggdev/Soal_Test_2/assets/59599517/ba5b6ba0-9a85-41de-916d-f4801630820b)
+![Screenshoot Login](https://github.com/pinggdev/Soal_Test_2/assets/59599517/27db7e6e-5752-4217-b395-e4c3d2b3d678)
 
 ## Teknologi yang digunakan
 ### React
